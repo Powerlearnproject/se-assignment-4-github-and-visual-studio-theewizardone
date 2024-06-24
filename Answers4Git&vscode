@@ -201,3 +201,29 @@ Set breakpoints where you suspect issues.
 Run the debugger and use step-through commands to follow code execution.
 Inspect variables and expressions using watch windows.
 Analyze the call stack to understand the sequence of function
+Handle exceptions to catch and debug runtime errors.
+Collaborative Development using GitHub and Visual Studio:
+Discuss how GitHub and Visual Studio can be used together to support collaborative development. Provide a real-world example of a project that benefits from this integration.
+
+GitHub and Visual Studio together provide a powerful environment for collaborative development:
+
+Version control: Visual Studio's integration with GitHub allows developers to clone repositories, create branches, and manage commits seamlessly.
+Code reviews: Pull requests and code reviews can be initiated directly from Visual Studio.
+CI/CD: GitHub Actions can automate testing and deployment, with results displayed in Visual Studio.
+Project management: GitHub's issue tracking and project boards integrate with Visual Studio to manage tasks and track progress.
+Real-world example:
+
+A team developing a web application using ASP.NET Core can benefit from this integration. Developers can:
+
+Clone the repository from GitHub in Visual Studio.
+Work on feature branches and commit changes.
+Create pull requests for code reviews.
+Run CI/CD pipelines using GitHub Actions for automated testing and deployment.
+Track issues and progress using GitHub's project management tools.
+This integration streamlines the development workflow, improves collaboration, and ensures high-quality code through continuous integration and deployment.
+
+
+
+
+
+
